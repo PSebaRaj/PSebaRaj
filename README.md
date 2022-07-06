@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psebaraj&layout=compact&langs_count=7)](https://github.com/psebaraj/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psebaraj&layout=compact&langs_count=8)](https://github.com/psebaraj/github-readme-stats)
 
 - 👋 Hi, I’m @PSebaRaj
 - 👀 I’m interested in computer science, finance, and the intersection of the two fields.
