@@ -4,9 +4,9 @@
 - I’m interested in computer science, economics, and the intersection of the two fields.
 - I’m a junior at Yale studying Computer Science and Economics (B.S.)
 - I'm currently working on the following projects
-  - [GoGetItDone](https://github.com/PSebaRaj/gogetitdone)
+  - GoGetItDone
   - Converting my Neovim config to 100% Lua
-  - [PBay](https://github.com/PSebaRaj/pbay)
+  - PBay
 
 <!---
 PSebaRaj/PSebaRaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
