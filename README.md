@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psebaraj&layout=compact&langs_count=6&theme=dark)](https://github.com/psebaraj/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-ismail&layout=compact&langs_count=6&theme=dark)](https://github.com/psebaraj/github-readme-stats)
 
 - Hi, I’m Patrick SebaRaj @PSebaRaj
 - I’m interested in computer science, economics, and the intersection of the two fields.
