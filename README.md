@@ -1,4 +1,4 @@
-- Hi, I’m Patrick SebaRaj @PSebaRaj
+## Hi, I’m Patrick SebaRaj @PSebaRaj
 - I’m interested in computer science, economics, and the intersection of the two fields.
 - I’m a junior at Yale studying Computer Science and Economics (B.S.)
 - Currently working on:
