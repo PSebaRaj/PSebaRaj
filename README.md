@@ -1,3 +1,5 @@
+![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=psebaraj&count_private=true&show_icons=true&theme=dark)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psebaraj&layout=compact&langs_count=6&theme=dark)](https://github.com/psebaraj/github-readme-stats)
 
 - Hi, I’m Patrick SebaRaj @PSebaRaj
