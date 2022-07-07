@@ -9,7 +9,7 @@
   - [Docker](https://github.com/topics/docker)
   - [Redis](https://github.com/go-redis/redis)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psebaraj&layout=compact&langs_count=6&theme=dark)](https://github.com/psebaraj/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psebaraj&layout=compact&langs_count=6&theme=dark&exclude_repo=github-readme-stats,NASA-19)](https://github.com/psebaraj/github-readme-stats)
 <!---
 PSebaRaj/PSebaRaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
