@@ -2,12 +2,12 @@
 - Junior at Yale studying Computer Science and Economics
 - Passionate about tech, finance, and the intersection of the two fields
 - Currently working on:
-  - Converting my Neovim config to 100% Lua
-  - GoGetItDone
-  - PBay
+  - Converting my [Neovim](https://github.com/neovim/neovim) config to 100% [Lua](https://github.com/lua/lua)
+  - [GoGetItDone](https://github.com/PSebaRaj/GoGetItDone)
+  - [PBay](https://github.com/PSebaRaj/pBay)
 - Currently learning:
-  - Docker
-  - Redis
+  - [Docker](https://github.com/topics/docker)
+  - [Redis](https://github.com/go-redis/redis)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psebaraj&layout=compact&langs_count=6&theme=dark)](https://github.com/psebaraj/github-readme-stats)
 <!---
