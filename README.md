@@ -1,4 +1,4 @@
-## Hi, I’m Patrick
+## About Me
 - I’m a junior at Yale studying Computer Science and Economics (B.S.)
 - I’m interested in computer science, economics, and the intersection of the two fields.
 - Currently working on:
