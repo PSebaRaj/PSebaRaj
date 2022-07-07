@@ -1,5 +1,5 @@
 ## About Me
-- Junior at Yale studying computer science and economics
+- Junior at Yale studying Computer Science and Economics
 - Passionate about tech, finance, and the intersection of the two fields
 - Currently working on:
   - Converting my Neovim config to 100% Lua
