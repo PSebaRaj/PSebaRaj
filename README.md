@@ -1,6 +1,6 @@
-## Hi, I’m Patrick SebaRaj @PSebaRaj
-- I’m interested in computer science, economics, and the intersection of the two fields.
+## Hi, I’m Patrick
 - I’m a junior at Yale studying Computer Science and Economics (B.S.)
+- I’m interested in computer science, economics, and the intersection of the two fields.
 - Currently working on:
   - Converting my Neovim config to 100% Lua
   - GoGetItDone
