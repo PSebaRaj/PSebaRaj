@@ -4,7 +4,7 @@
 - Currently working on:
   - Converting my [Neovim](https://github.com/neovim/neovim) config to 100% [Lua](https://github.com/lua/lua)
   - [GoGetItDone](https://github.com/PSebaRaj/GoGetItDone)
-  - [PBay](https://github.com/PSebaRaj/pBay)
+  - [VideoMemories](https://github.com/PSebaRaj/VideoMemories)
 - Currently learning:
   - [Docker](https://github.com/topics/docker)
   - [Redis](https://github.com/go-redis/redis)
