@@ -2,7 +2,6 @@
 - Junior at Yale studying Computer Science and Economics
 - Passionate about tech, finance, and the intersection of the two fields
 - Currently working on:
-  - Converting my [Neovim](https://github.com/neovim/neovim) config to 100% [Lua](https://github.com/lua/lua)
   - [GoGetItDone](https://github.com/PSebaRaj/GoGetItDone)
   - [PBay](https://github.com/PSebaRaj/pBay)
 - Currently learning:
