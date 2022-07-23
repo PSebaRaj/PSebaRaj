@@ -2,8 +2,8 @@
 - Junior at Yale studying Computer Science and Economics
 - Passionate about tech, finance, and the intersection of the two fields
 - Currently working on:
-  - [GoGetItDone](https://github.com/PSebaRaj/GoGetItDone)
-  - [PBay](https://github.com/PSebaRaj/pBay)
+  - [GoGetItDone](https://github.com/PSebaRaj/GoGetItDone) (Go, Redis)
+  - [PBay](https://github.com/PSebaRaj/pBay) (Go, TypeScript, gRPC)
 - Currently learning:
   - [Docker](https://github.com/topics/docker)
   - [Redis](https://github.com/go-redis/redis)
