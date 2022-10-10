@@ -1,7 +1,7 @@
 ## About Me
 - Junior at Yale studying Computer Science and Economics
 - Passionate about tech, finance, and the intersection of the two fields
-- Currently furthering my knowledge in [Docker](https://github.com/topics/docker), [gRPC](https://github.com/grpc/grpc-go) and [Redis](https://github.com/go-redis/redis)
+- Currently learning [Docker](https://github.com/topics/docker), [gRPC](https://github.com/grpc/grpc-go), Tamil, and Italian
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psebaraj&layout=compact&langs_count=6&theme=dark&exclude_repo=github-readme-stats)](https://github.com/psebaraj/github-readme-stats)
 <!---
