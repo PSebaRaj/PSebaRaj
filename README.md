@@ -1,6 +1,6 @@
 ## About Me
-- Senior at Yale studying Computer Science and Economics
-- Passionate about distributed systems, finance, cars, and soccer
+- Recent Yale grad, studyied Computer Science and Economics
+- Passionate about distributed systems, computer networks, finance, cars, and soccer
 - Currently learning more about C++ and operating systems
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psebaraj&layout=compact&langs_count=6&theme=dark&exclude_repo=github-readme-stats,Adventurista)](https://github.com/psebaraj/github-readme-stats)
