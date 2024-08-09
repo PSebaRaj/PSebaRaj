@@ -1,5 +1,5 @@
 ## About Me
-- Recent Yale grad, studyied Computer Science and Economics
+- Recent Yale grad, studied Computer Science and Economics
 - Passionate about distributed systems, computer networks, finance, cars, and soccer
 - Currently learning more about C++ and operating systems
 
